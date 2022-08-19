@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MainSceneMenuButton
+  - MenuSceneCategoriesButton
+  - Shop
+  - test
+  - test2
+  - Food
+  - ShoppingBasket
   layers:
   - Default
   - TransparentFX

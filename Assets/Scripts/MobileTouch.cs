@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
+using TMPro;
+using UnityEngine.UI;
 
 public class MobileTouch : MonoBehaviour
 {
@@ -11,6 +14,11 @@ public class MobileTouch : MonoBehaviour
 
     private float doubleclickDelay = 0.5f;
     private float passedTimeSinceLastClick;
+
+    //public List<string> shoppingBasket = new List<string>();
+    public GameObject clickObj;
+
+    private string num;
     // Start is called before the first frame update
     void Start()
     {
@@ -41,13 +49,45 @@ public class MobileTouch : MonoBehaviour
         StartCoroutine(reset());
     }
 
-    public void OnPointerDown()
+    public void OnPointerDoublClick()
     {
         if(passedTimeSinceLastClick < doubleclickDelay)
         {
             DoubleClicked = true;
             Debug.Log("더블 클릭");
-            SceneManager.LoadScene(1);
+
+            if (CompareTag("MainSceneMenuButton"))
+            {
+                SceneManager.LoadScene(1);
+            }
+            else if (CompareTag("MenuSceneCategoriesButton"))
+            {
+                SceneManager.LoadScene(2);
+            }
+            else if(CompareTag("Shop"))
+            {
+                SceneManager.LoadScene(3);
+            }
+            else if (CompareTag("Food"))
+            {
+                clickObj = EventSystem.current.currentSelectedGameObject;
+                //num = clickObj.GetComponentInChildren<TextMesh>().text;
+
+                ShoppingBasket.shopping.Add(clickObj.GetComponentInChildren<TextMeshProUGUI>().text);
+
+            }
+            else if(CompareTag("test2"))
+            {
+                foreach(string temp in ShoppingBasket.shopping)
+                {
+                    Debug.Log(temp);
+                }
+            }
+            else if(CompareTag("ShoppingBasket"))
+            {
+                SceneManager.LoadScene(4);
+            }
+
             StartCoroutine(reset());
         }
         else
