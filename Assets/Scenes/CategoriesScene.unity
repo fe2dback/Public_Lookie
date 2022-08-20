@@ -284,6 +284,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Clicked: 0
   DoubleClicked: 0
+  clickObj: {fileID: 0}
+  iSceneNumber: 0
 --- !u!1 &377874135
 GameObject:
   m_ObjectHideFlags: 0
@@ -980,6 +982,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Clicked: 0
   DoubleClicked: 0
+  clickObj: {fileID: 0}
+  iSceneNumber: 0
 --- !u!1 &1408606168
 GameObject:
   m_ObjectHideFlags: 0
@@ -1276,6 +1280,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Clicked: 0
   DoubleClicked: 0
+  clickObj: {fileID: 0}
+  iSceneNumber: 0
 --- !u!1 &1500600503
 GameObject:
   m_ObjectHideFlags: 0
@@ -1437,6 +1443,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Clicked: 0
   DoubleClicked: 0
+  clickObj: {fileID: 0}
+  iSceneNumber: 0
 --- !u!1 &1616953293
 GameObject:
   m_ObjectHideFlags: 0
