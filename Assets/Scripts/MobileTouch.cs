@@ -22,7 +22,7 @@ public class MobileTouch : MonoBehaviour
     private bool bPushed = false;
     private float tStartPush = 0f;
 
-    private string num;
+    public int iSceneNumber;
     // Start is called before the first frame update
     void Start()
     {
@@ -35,6 +35,10 @@ public class MobileTouch : MonoBehaviour
         passedTimeSinceLastClick += Time.deltaTime;
         Clicked = false;
         
+        if(Input.GetKeyDown(KeyCode.Escape))
+        {
+
+        }
 
     }
 
@@ -45,6 +49,19 @@ public class MobileTouch : MonoBehaviour
         DoubleClicked = false;
     }
 
+    public void BackSpace()
+    {
+        iSceneNumber = SceneManager.GetActiveScene().buildIndex;
+        if (iSceneNumber == 0)
+        {
+            Application.Quit();
+            Debug.Log("종료");
+        }
+        else
+        {
+            SceneManager.LoadScene(iSceneNumber - 1);
+        }
+    }
     public void OnPointClick()
     {
         Clicked = true;
@@ -69,6 +86,19 @@ public class MobileTouch : MonoBehaviour
             if (CompareTag("MainSceneMenuButton"))
             {
                 SceneManager.LoadScene(1);
+            }
+            else if(CompareTag("Quit"))
+            {
+                iSceneNumber = SceneManager.GetActiveScene().buildIndex;
+                if(iSceneNumber == 0)
+                {
+                    Application.Quit();
+                    Debug.Log("종료");
+                }
+                else
+                {
+                    SceneManager.LoadScene(iSceneNumber - 1);
+                }
             }
             else if (CompareTag("MenuSceneCategoriesButton"))
             {

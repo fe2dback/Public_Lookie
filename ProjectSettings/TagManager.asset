@@ -12,6 +12,7 @@ TagManager:
   - Food
   - ShoppingBasket
   - ShoppingBasketFood
+  - Quit
   layers:
   - Default
   - TransparentFX
