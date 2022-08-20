@@ -11,6 +11,7 @@ TagManager:
   - test2
   - Food
   - ShoppingBasket
+  - ShoppingBasketFood
   layers:
   - Default
   - TransparentFX
