@@ -37,7 +37,7 @@ public class MobileTouch : MonoBehaviour
         
         if(Input.GetKeyDown(KeyCode.Escape))
         {
-
+            BackSpace();
         }
 
     }
