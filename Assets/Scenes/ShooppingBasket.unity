@@ -208,8 +208,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 0
@@ -390,6 +390,7 @@ MonoBehaviour:
   Clicked: 0
   DoubleClicked: 0
   clickObj: {fileID: 0}
+  iSceneNumber: 0
 --- !u!114 &342596690
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -959,6 +960,7 @@ MonoBehaviour:
   Clicked: 0
   DoubleClicked: 0
   clickObj: {fileID: 0}
+  iSceneNumber: 0
 --- !u!114 &680367365
 MonoBehaviour:
   m_ObjectHideFlags: 0
