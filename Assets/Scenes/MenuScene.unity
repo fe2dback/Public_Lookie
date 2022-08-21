@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 9910143}
   m_Layer: 5
   m_Name: Menu Button (14)
-  m_TagString: Food
+  m_TagString: Menu_13
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -301,7 +301,7 @@ GameObject:
   - component: {fileID: 52937440}
   m_Layer: 5
   m_Name: Menu Button (2)
-  m_TagString: Food
+  m_TagString: Menu_3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -464,7 +464,7 @@ GameObject:
   - component: {fileID: 62458694}
   m_Layer: 5
   m_Name: Menu Button (9)
-  m_TagString: Food
+  m_TagString: Menu_10
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -627,7 +627,7 @@ GameObject:
   - component: {fileID: 153092400}
   m_Layer: 5
   m_Name: Menu Button (25)
-  m_TagString: Food
+  m_TagString: Menu_24
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1255,7 +1255,7 @@ GameObject:
   - component: {fileID: 304770160}
   m_Layer: 5
   m_Name: Menu Button (24)
-  m_TagString: Food
+  m_TagString: Menu_23
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1418,7 +1418,7 @@ GameObject:
   - component: {fileID: 339096257}
   m_Layer: 5
   m_Name: Menu Button (1)
-  m_TagString: Food
+  m_TagString: Menu_2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2256,7 +2256,7 @@ GameObject:
   - component: {fileID: 527000129}
   m_Layer: 5
   m_Name: Menu Button (4)
-  m_TagString: Food
+  m_TagString: Menu_5
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2552,7 +2552,7 @@ GameObject:
   - component: {fileID: 610947914}
   m_Layer: 5
   m_Name: Text (TMP)
-  m_TagString: Untagged
+  m_TagString: Menu_1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2824,7 +2824,7 @@ GameObject:
   - component: {fileID: 671869843}
   m_Layer: 5
   m_Name: Menu Button (11)
-  m_TagString: Food
+  m_TagString: Menu_12
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2987,7 +2987,7 @@ GameObject:
   - component: {fileID: 721858169}
   m_Layer: 5
   m_Name: Menu Button (15)
-  m_TagString: Food
+  m_TagString: Menu_14
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3285,7 +3285,7 @@ GameObject:
   - component: {fileID: 806363642}
   m_Layer: 5
   m_Name: Menu Button (18)
-  m_TagString: Food
+  m_TagString: Menu_17
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3620,7 +3620,7 @@ GameObject:
   - component: {fileID: 927639457}
   m_Layer: 5
   m_Name: Menu Button (22)
-  m_TagString: Food
+  m_TagString: Menu_21
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3850,7 +3850,7 @@ GameObject:
   - component: {fileID: 996050899}
   m_Layer: 5
   m_Name: Menu Button (16)
-  m_TagString: Food
+  m_TagString: Menu_15
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4013,7 +4013,7 @@ GameObject:
   - component: {fileID: 1022587847}
   m_Layer: 5
   m_Name: Menu Button (21)
-  m_TagString: Food
+  m_TagString: Menu_20
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4176,7 +4176,7 @@ GameObject:
   - component: {fileID: 1052881849}
   m_Layer: 5
   m_Name: Menu Button (10)
-  m_TagString: Food
+  m_TagString: Menu_11
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4339,7 +4339,7 @@ GameObject:
   - component: {fileID: 1067819358}
   m_Layer: 5
   m_Name: Menu Button (20)
-  m_TagString: Food
+  m_TagString: Menu_19
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4502,7 +4502,7 @@ GameObject:
   - component: {fileID: 1119760168}
   m_Layer: 5
   m_Name: Menu Button (13)
-  m_TagString: Food
+  m_TagString: Menu_12
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4935,7 +4935,7 @@ GameObject:
   - component: {fileID: 1187793718}
   m_Layer: 5
   m_Name: Menu Button (17)
-  m_TagString: Food
+  m_TagString: Menu_16
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5233,7 +5233,7 @@ GameObject:
   - component: {fileID: 1309256719}
   m_Layer: 5
   m_Name: Menu Button
-  m_TagString: Food
+  m_TagString: Menu_1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5633,7 +5633,7 @@ GameObject:
   - component: {fileID: 1395372381}
   m_Layer: 5
   m_Name: Menu Button (7)
-  m_TagString: Food
+  m_TagString: Menu_8
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6336,7 +6336,7 @@ GameObject:
   - component: {fileID: 1508258138}
   m_Layer: 5
   m_Name: Menu Button (23)
-  m_TagString: Food
+  m_TagString: Menu_22
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6998,7 +6998,7 @@ GameObject:
   - component: {fileID: 1705373841}
   m_Layer: 5
   m_Name: Menu Button (5)
-  m_TagString: Food
+  m_TagString: Menu_6
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7161,7 +7161,7 @@ GameObject:
   - component: {fileID: 1750806571}
   m_Layer: 5
   m_Name: Menu Button (6)
-  m_TagString: Food
+  m_TagString: Menu_7
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7459,7 +7459,7 @@ GameObject:
   - component: {fileID: 1843587467}
   m_Layer: 5
   m_Name: Menu Button (12)
-  m_TagString: Food
+  m_TagString: Menu_11
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7622,7 +7622,7 @@ GameObject:
   - component: {fileID: 1864121844}
   m_Layer: 5
   m_Name: Menu Button (3)
-  m_TagString: Food
+  m_TagString: Menu_4
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8055,7 +8055,7 @@ GameObject:
   - component: {fileID: 1934896677}
   m_Layer: 5
   m_Name: Menu Button (19)
-  m_TagString: Food
+  m_TagString: Menu_18
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8214,6 +8214,9 @@ GameObject:
   - component: {fileID: 1937319307}
   - component: {fileID: 1937319306}
   - component: {fileID: 1937319305}
+  - component: {fileID: 1937319310}
+  - component: {fileID: 1937319309}
+  - component: {fileID: 1937319308}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -8287,6 +8290,181 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1937319308
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937319304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7c2731742817b2408b1aa8f36eb0c92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioSource: {fileID: 0}
+  MenuSelect: {fileID: 8300000, guid: e129ebb5e8c8b52468e6ddc3c41c3c5a, type: 3}
+  Tutorial: {fileID: 8300000, guid: c0639447b1008764588f1731b205a574, type: 3}
+  Option: {fileID: 8300000, guid: 4fc7aec269d5d7a4fa8f8f4557036c82, type: 3}
+  Quit: {fileID: 8300000, guid: e07d6a9801ced5b41b1cb72ad9255800, type: 3}
+  Drink: {fileID: 8300000, guid: 98ba9426a264a344ea29136ceeef84be, type: 3}
+  Coffee: {fileID: 8300000, guid: ad897e9ca6491d245b8d0c7c83c90419, type: 3}
+  Shop: {fileID: 8300000, guid: 89821e8ac919ebe48b72d830dedd515f, type: 3}
+  Menu_1: {fileID: 8300000, guid: a5b00e56377fdec4f8e52d8015bb6faf, type: 3}
+  Menu_2: {fileID: 8300000, guid: 2490d8c9e2f04c24a828b508440786a9, type: 3}
+  Menu_3: {fileID: 8300000, guid: 49016c14edb696b4795f887fbb1e3b34, type: 3}
+  Menu_4: {fileID: 8300000, guid: 69d1cbede6204d34787bbe339b439d0f, type: 3}
+  Menu_5: {fileID: 8300000, guid: 5a60fb0ac4c292a4f907803bf3953f80, type: 3}
+  Menu_6: {fileID: 8300000, guid: 40a8e772eec5e684ba0442647f106671, type: 3}
+  Menu_7: {fileID: 8300000, guid: 0fb519af280e8294c93c88718d579cc6, type: 3}
+  Menu_8: {fileID: 8300000, guid: 8f62d7abd0e28a742b45442dd780c5db, type: 3}
+  Menu_9: {fileID: 8300000, guid: 671ae4e3a43177f4f94e3bbe7fd626be, type: 3}
+  Menu_10: {fileID: 8300000, guid: 0a98f7cc6a1120643885e135f75ffd02, type: 3}
+  Menu_11: {fileID: 8300000, guid: 126aba617af516e42aafca5c22183590, type: 3}
+  Menu_12: {fileID: 8300000, guid: 35229a19356f5f647b830c3444ece532, type: 3}
+  Menu_13: {fileID: 8300000, guid: 8172ae9c99b625f4ab47926f37c7783f, type: 3}
+  Menu_14: {fileID: 8300000, guid: a356a3f2d19dcca4fba18d459d775787, type: 3}
+  Menu_15: {fileID: 8300000, guid: 4360a2d783c8b704a9c6d1aac01c8504, type: 3}
+  Menu_16: {fileID: 8300000, guid: 72a13cad8c09f794e865542d00a6c414, type: 3}
+  Menu_17: {fileID: 8300000, guid: 2b02cfbd889465c479f1105c40c99ec7, type: 3}
+  Menu_18: {fileID: 8300000, guid: ed54d76c2d3d5e54ea53098e49ee4342, type: 3}
+  Menu_19: {fileID: 8300000, guid: 20f262984749b7c448a1df0e4db70cc1, type: 3}
+  Menu_20: {fileID: 8300000, guid: 4fe8d689916716c49863c7e083dfa1dd, type: 3}
+  Menu_21: {fileID: 8300000, guid: 1d92b457214aba342b17284499abb117, type: 3}
+  Menu_22: {fileID: 8300000, guid: 4552f43b83f0cf84c89f4ce5760eb995, type: 3}
+  Menu_23: {fileID: 8300000, guid: d4c7ddab515f79149a9dc491280389ff, type: 3}
+  Menu_24: {fileID: 8300000, guid: 10545857f54122044904702a7019af85, type: 3}
+  Menu_25: {fileID: 8300000, guid: 35116f09402ca624f85c798058ff9eee, type: 3}
+  Menu_26: {fileID: 0}
+--- !u!82 &1937319309
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937319304}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &1937319310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937319304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_RenderShadows: 1
+  m_RequiresDepthTextureOption: 2
+  m_RequiresOpaqueTextureOption: 2
+  m_CameraType: 0
+  m_Cameras: []
+  m_RendererIndex: -1
+  m_VolumeLayerMask:
+    serializedVersion: 2
+    m_Bits: 1
+  m_VolumeTrigger: {fileID: 0}
+  m_VolumeFrameworkUpdateModeOption: 2
+  m_RenderPostProcessing: 0
+  m_Antialiasing: 0
+  m_AntialiasingQuality: 2
+  m_StopNaN: 0
+  m_Dithering: 0
+  m_ClearDepth: 1
+  m_AllowXRRendering: 1
+  m_RequiresDepthTexture: 0
+  m_RequiresColorTexture: 0
+  m_Version: 2
 --- !u!1 &1992485941
 GameObject:
   m_ObjectHideFlags: 0
@@ -8572,7 +8750,7 @@ GameObject:
   - component: {fileID: 2052979381}
   m_Layer: 5
   m_Name: Menu Button (8)
-  m_TagString: Food
+  m_TagString: Menu_9
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
