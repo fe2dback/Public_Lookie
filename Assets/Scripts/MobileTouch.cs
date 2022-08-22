@@ -142,9 +142,17 @@ public class MobileTouch : MonoBehaviour
             }
             else if (CompareTag("Menu_11"))
             {
+                SoundM.instance.menu_11();
+            }
+            else if (CompareTag("Menu_12"))
+            {
                 SoundM.instance.menu_12();
             }
             else if (CompareTag("Menu_13"))
+            {
+                SoundM.instance.menu_13();
+            }
+            else if (CompareTag("Menu_14"))
             {
                 SoundM.instance.menu_14();
             }
@@ -195,6 +203,10 @@ public class MobileTouch : MonoBehaviour
             else if (CompareTag("Menu_26"))
             {
                 SoundM.instance.menu_26();
+            }
+            else if(CompareTag("ShoppingBasket"))
+            {
+                SoundM.instance.shoppingBasket();
             }
             
 
@@ -274,6 +286,7 @@ public class MobileTouch : MonoBehaviour
                     {
                         ShoppingBasket.lShopItems[sCurrent] = ShoppingBasket.lShopItems[sCurrent] + 1;
                     }
+                SceneManager.LoadScene(3);
 
                 }
             else if (CompareTag("Menu_2"))
@@ -291,6 +304,7 @@ public class MobileTouch : MonoBehaviour
                 {
                     ShoppingBasket.lShopItems[sCurrent] = ShoppingBasket.lShopItems[sCurrent] + 1;
                 }
+                SceneManager.LoadScene(3);
 
             }
             else if (CompareTag("Menu_3"))
@@ -308,6 +322,7 @@ public class MobileTouch : MonoBehaviour
                 {
                     ShoppingBasket.lShopItems[sCurrent] = ShoppingBasket.lShopItems[sCurrent] + 1;
                 }
+                SceneManager.LoadScene(3);
 
             }
             else if (CompareTag("Menu_4"))
@@ -325,6 +340,7 @@ public class MobileTouch : MonoBehaviour
                 {
                     ShoppingBasket.lShopItems[sCurrent] = ShoppingBasket.lShopItems[sCurrent] + 1;
                 }
+                SceneManager.LoadScene(3);
 
             }
 

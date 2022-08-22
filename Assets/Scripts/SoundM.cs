@@ -39,7 +39,7 @@ public class SoundM : MonoBehaviour
     public AudioClip Menu_24;
     public AudioClip Menu_25;
     public AudioClip Menu_26;
-
+    public AudioClip ShoppingBasket;
 
 
 
@@ -66,6 +66,7 @@ public class SoundM : MonoBehaviour
     public void menuselect()
     {
         audioSource.PlayOneShot(MenuSelect);
+       
     }
 
     public void tutorial()
@@ -218,6 +219,11 @@ public class SoundM : MonoBehaviour
     public void menu_26()
     {
         audioSource.PlayOneShot(Menu_26);
+    }
+
+    public void shoppingBasket()
+    {
+        audioSource.PlayOneShot(ShoppingBasket);
     }
 
 }

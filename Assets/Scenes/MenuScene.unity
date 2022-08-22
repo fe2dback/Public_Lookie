@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 9910143}
   m_Layer: 5
   m_Name: Menu Button (14)
-  m_TagString: Menu_13
+  m_TagString: Menu_15
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -627,7 +627,7 @@ GameObject:
   - component: {fileID: 153092400}
   m_Layer: 5
   m_Name: Menu Button (25)
-  m_TagString: Menu_24
+  m_TagString: Menu_26
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1255,7 +1255,7 @@ GameObject:
   - component: {fileID: 304770160}
   m_Layer: 5
   m_Name: Menu Button (24)
-  m_TagString: Menu_23
+  m_TagString: Menu_25
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2987,7 +2987,7 @@ GameObject:
   - component: {fileID: 721858169}
   m_Layer: 5
   m_Name: Menu Button (15)
-  m_TagString: Menu_14
+  m_TagString: Menu_16
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3285,7 +3285,7 @@ GameObject:
   - component: {fileID: 806363642}
   m_Layer: 5
   m_Name: Menu Button (18)
-  m_TagString: Menu_17
+  m_TagString: Menu_19
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3620,7 +3620,7 @@ GameObject:
   - component: {fileID: 927639457}
   m_Layer: 5
   m_Name: Menu Button (22)
-  m_TagString: Menu_21
+  m_TagString: Menu_23
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3850,7 +3850,7 @@ GameObject:
   - component: {fileID: 996050899}
   m_Layer: 5
   m_Name: Menu Button (16)
-  m_TagString: Menu_15
+  m_TagString: Menu_17
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4013,7 +4013,7 @@ GameObject:
   - component: {fileID: 1022587847}
   m_Layer: 5
   m_Name: Menu Button (21)
-  m_TagString: Menu_20
+  m_TagString: Menu_22
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4339,7 +4339,7 @@ GameObject:
   - component: {fileID: 1067819358}
   m_Layer: 5
   m_Name: Menu Button (20)
-  m_TagString: Menu_19
+  m_TagString: Menu_21
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4502,7 +4502,7 @@ GameObject:
   - component: {fileID: 1119760168}
   m_Layer: 5
   m_Name: Menu Button (13)
-  m_TagString: Menu_12
+  m_TagString: Menu_14
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4935,7 +4935,7 @@ GameObject:
   - component: {fileID: 1187793718}
   m_Layer: 5
   m_Name: Menu Button (17)
-  m_TagString: Menu_16
+  m_TagString: Menu_18
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6336,7 +6336,7 @@ GameObject:
   - component: {fileID: 1508258138}
   m_Layer: 5
   m_Name: Menu Button (23)
-  m_TagString: Menu_22
+  m_TagString: Menu_24
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7459,7 +7459,7 @@ GameObject:
   - component: {fileID: 1843587467}
   m_Layer: 5
   m_Name: Menu Button (12)
-  m_TagString: Menu_11
+  m_TagString: Menu_13
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8055,7 +8055,7 @@ GameObject:
   - component: {fileID: 1934896677}
   m_Layer: 5
   m_Name: Menu Button (19)
-  m_TagString: Menu_18
+  m_TagString: Menu_20
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8336,6 +8336,7 @@ MonoBehaviour:
   Menu_24: {fileID: 8300000, guid: 10545857f54122044904702a7019af85, type: 3}
   Menu_25: {fileID: 8300000, guid: 35116f09402ca624f85c798058ff9eee, type: 3}
   Menu_26: {fileID: 0}
+  ShoppingBasket: {fileID: 8300000, guid: 6bd70146694d9a1469954abb7a75e802, type: 3}
 --- !u!82 &1937319309
 AudioSource:
   m_ObjectHideFlags: 0
