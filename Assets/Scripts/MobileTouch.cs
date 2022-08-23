@@ -325,10 +325,16 @@ public class MobileTouch : MonoBehaviour
                 SceneManager.LoadScene(3);
 
             }
-            else if (CompareTag("Menu_4"))
+            else if (CompareTag("Menu_4") || CompareTag("Menu_5") || CompareTag("Menu_6") || CompareTag("Menu_7")
+                || CompareTag("Menu_8") || CompareTag("Menu_9") || CompareTag("Menu_10") || CompareTag("Menu_11")
+                || CompareTag("Menu_12") || CompareTag("Menu_13") || CompareTag("Menu_14") || CompareTag("Menu_15")
+                || CompareTag("Menu_16") || CompareTag("Menu_17") || CompareTag("Menu_18") || CompareTag("Menu_19")
+                || CompareTag("Menu_20") || CompareTag("Menu_21") || CompareTag("Menu_22") || CompareTag("Menu_23")
+                || CompareTag("Menu_24") || CompareTag("Menu_25") || CompareTag("Menu_26"))
+
             {
                 clickObj = EventSystem.current.currentSelectedGameObject;
-
+                
 
                 string sCurrent = clickObj.GetComponentInChildren<TextMeshProUGUI>().text;
 
