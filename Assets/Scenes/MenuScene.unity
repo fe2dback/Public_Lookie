@@ -8303,40 +8303,40 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioSource: {fileID: 0}
-  MenuSelect: {fileID: 8300000, guid: e129ebb5e8c8b52468e6ddc3c41c3c5a, type: 3}
-  Tutorial: {fileID: 8300000, guid: c0639447b1008764588f1731b205a574, type: 3}
-  Option: {fileID: 8300000, guid: 4fc7aec269d5d7a4fa8f8f4557036c82, type: 3}
-  Quit: {fileID: 8300000, guid: e07d6a9801ced5b41b1cb72ad9255800, type: 3}
-  Drink: {fileID: 8300000, guid: 98ba9426a264a344ea29136ceeef84be, type: 3}
-  Coffee: {fileID: 8300000, guid: ad897e9ca6491d245b8d0c7c83c90419, type: 3}
-  Shop: {fileID: 8300000, guid: 89821e8ac919ebe48b72d830dedd515f, type: 3}
-  Menu_1: {fileID: 8300000, guid: a5b00e56377fdec4f8e52d8015bb6faf, type: 3}
-  Menu_2: {fileID: 8300000, guid: 2490d8c9e2f04c24a828b508440786a9, type: 3}
-  Menu_3: {fileID: 8300000, guid: 49016c14edb696b4795f887fbb1e3b34, type: 3}
-  Menu_4: {fileID: 8300000, guid: 69d1cbede6204d34787bbe339b439d0f, type: 3}
-  Menu_5: {fileID: 8300000, guid: 5a60fb0ac4c292a4f907803bf3953f80, type: 3}
-  Menu_6: {fileID: 8300000, guid: 40a8e772eec5e684ba0442647f106671, type: 3}
-  Menu_7: {fileID: 8300000, guid: 0fb519af280e8294c93c88718d579cc6, type: 3}
-  Menu_8: {fileID: 8300000, guid: 8f62d7abd0e28a742b45442dd780c5db, type: 3}
-  Menu_9: {fileID: 8300000, guid: 671ae4e3a43177f4f94e3bbe7fd626be, type: 3}
-  Menu_10: {fileID: 8300000, guid: 0a98f7cc6a1120643885e135f75ffd02, type: 3}
-  Menu_11: {fileID: 8300000, guid: 126aba617af516e42aafca5c22183590, type: 3}
-  Menu_12: {fileID: 8300000, guid: 35229a19356f5f647b830c3444ece532, type: 3}
-  Menu_13: {fileID: 8300000, guid: 8172ae9c99b625f4ab47926f37c7783f, type: 3}
-  Menu_14: {fileID: 8300000, guid: a356a3f2d19dcca4fba18d459d775787, type: 3}
-  Menu_15: {fileID: 8300000, guid: 4360a2d783c8b704a9c6d1aac01c8504, type: 3}
-  Menu_16: {fileID: 8300000, guid: 72a13cad8c09f794e865542d00a6c414, type: 3}
-  Menu_17: {fileID: 8300000, guid: 2b02cfbd889465c479f1105c40c99ec7, type: 3}
-  Menu_18: {fileID: 8300000, guid: ed54d76c2d3d5e54ea53098e49ee4342, type: 3}
-  Menu_19: {fileID: 8300000, guid: 20f262984749b7c448a1df0e4db70cc1, type: 3}
-  Menu_20: {fileID: 8300000, guid: 4fe8d689916716c49863c7e083dfa1dd, type: 3}
-  Menu_21: {fileID: 8300000, guid: 1d92b457214aba342b17284499abb117, type: 3}
-  Menu_22: {fileID: 8300000, guid: 4552f43b83f0cf84c89f4ce5760eb995, type: 3}
-  Menu_23: {fileID: 8300000, guid: d4c7ddab515f79149a9dc491280389ff, type: 3}
-  Menu_24: {fileID: 8300000, guid: 10545857f54122044904702a7019af85, type: 3}
-  Menu_25: {fileID: 8300000, guid: 35116f09402ca624f85c798058ff9eee, type: 3}
-  Menu_26: {fileID: 0}
-  ShoppingBasket: {fileID: 8300000, guid: 6bd70146694d9a1469954abb7a75e802, type: 3}
+  MenuSelect: {fileID: 8300000, guid: 3c29d7f8d31737a468f871e34be9e9d8, type: 3}
+  Tutorial: {fileID: 8300000, guid: 7acf96f11b73dfe4cbfaaf892a7d7bb8, type: 3}
+  Option: {fileID: 8300000, guid: 8561929f572a4fe418c6181c482acf47, type: 3}
+  Quit: {fileID: 8300000, guid: 235aee5c3e975d743aded997dd7e5b20, type: 3}
+  Drink: {fileID: 8300000, guid: 558f4f80a19432141b88dbc8e7bd5cdb, type: 3}
+  Coffee: {fileID: 8300000, guid: 618401ea0d941cf42bdfb562a26e3e81, type: 3}
+  Shop: {fileID: 8300000, guid: a26a659016abd95438464a0831407eb3, type: 3}
+  Menu_1: {fileID: 8300000, guid: 8ed42fa9d6cbf6c46afa9ecc0b6ba338, type: 3}
+  Menu_2: {fileID: 8300000, guid: 4b7ed46933d16634fb9dcadd19f6e855, type: 3}
+  Menu_3: {fileID: 8300000, guid: d2ee7a50030cee542a3366f85f9cac29, type: 3}
+  Menu_4: {fileID: 8300000, guid: 9591839f441502f4e828608af255e9d0, type: 3}
+  Menu_5: {fileID: 8300000, guid: 182ac40f3ea9b3943b4042647efbe278, type: 3}
+  Menu_6: {fileID: 8300000, guid: 1e1125a45e4648c479b9dbfb1622d15a, type: 3}
+  Menu_7: {fileID: 8300000, guid: a899102c7b6ef61479f7c2fa48fbb3e4, type: 3}
+  Menu_8: {fileID: 8300000, guid: e8d0b4c16d51535489576e208400c1da, type: 3}
+  Menu_9: {fileID: 8300000, guid: 15310e2524affd7459e96504dfbb8029, type: 3}
+  Menu_10: {fileID: 8300000, guid: bcf415cc49dee7a43bad5d89e6f3fd5f, type: 3}
+  Menu_11: {fileID: 8300000, guid: efb6681488db5d145b0220ec20fa5b82, type: 3}
+  Menu_12: {fileID: 8300000, guid: 858db2ef82b543e45a8cb5afb13856b0, type: 3}
+  Menu_13: {fileID: 8300000, guid: 3415e948f0b407d43a3f5b2a2673c23b, type: 3}
+  Menu_14: {fileID: 8300000, guid: 8cdd912981ae32344b4f8601bd37fd9d, type: 3}
+  Menu_15: {fileID: 8300000, guid: 0f733caa23d73b648942fa2286b3e75c, type: 3}
+  Menu_16: {fileID: 8300000, guid: b17f2eebef18ec04ea0996a528a4163e, type: 3}
+  Menu_17: {fileID: 8300000, guid: a014c38e3e0e20144a986cbeed581d7a, type: 3}
+  Menu_18: {fileID: 8300000, guid: 11e8fe9efd0e36940b63e23f860ff194, type: 3}
+  Menu_19: {fileID: 8300000, guid: dda549ae06917e646b556042601577d5, type: 3}
+  Menu_20: {fileID: 8300000, guid: 380ab4b7942060e4fa988e36e4305544, type: 3}
+  Menu_21: {fileID: 8300000, guid: 1bdca13a5716fe442950e00614c445a0, type: 3}
+  Menu_22: {fileID: 8300000, guid: ce7a39a95107fb144956f0828c2c754b, type: 3}
+  Menu_23: {fileID: 8300000, guid: 427ddf5bdb9c3df40bb4f6aa51b562d4, type: 3}
+  Menu_24: {fileID: 8300000, guid: 608aa381281fc134e8523fc142f90122, type: 3}
+  Menu_25: {fileID: 8300000, guid: 494fcbf379ab58749adab50384527617, type: 3}
+  Menu_26: {fileID: 8300000, guid: cecc78cfdcf97424ea3a00f698765303, type: 3}
+  ShoppingBasket: {fileID: 8300000, guid: 6821288f8f84c1340beeaa72f499ffbb, type: 3}
 --- !u!82 &1937319309
 AudioSource:
   m_ObjectHideFlags: 0
