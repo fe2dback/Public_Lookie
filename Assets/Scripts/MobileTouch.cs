@@ -96,7 +96,7 @@ public class MobileTouch : MonoBehaviour
             {
                 SoundM.instance.coffee();
             }
-            else if(CompareTag("Shop"))
+            else if(CompareTag("Shop") || CompareTag("TestOne"))
             {
                 SoundM.instance.shop();
             }
@@ -267,32 +267,44 @@ public class MobileTouch : MonoBehaviour
             {
                 SceneManager.LoadScene(3);
             }
+            else if(CompareTag("TestOne"))
+            {
+                SceneManager.LoadScene(5);
+            }
 
 
 
 
             else if (CompareTag("Menu_1"))
+            {
+                clickObj = EventSystem.current.currentSelectedGameObject;
+                iSceneNumber = SceneManager.GetActiveScene().buildIndex;
+
+                string sCurrent = clickObj.GetComponentInChildren<TextMeshProUGUI>().text;
+
+                if (ShoppingBasket.lShopItems.TryGetValue(sCurrent, out int nUseless) == false)
                 {
-                    clickObj = EventSystem.current.currentSelectedGameObject;
-
-
-                    string sCurrent = clickObj.GetComponentInChildren<TextMeshProUGUI>().text;
-
-                    if (ShoppingBasket.lShopItems.TryGetValue(sCurrent, out int nUseless) == false)
-                    {
-                        ShoppingBasket.lShopItems[sCurrent] = 1;
-                    }
-                    else
-                    {
-                        ShoppingBasket.lShopItems[sCurrent] = ShoppingBasket.lShopItems[sCurrent] + 1;
-                    }
-                SceneManager.LoadScene(3);
-
+                   ShoppingBasket.lShopItems[sCurrent] = 1;
                 }
+                else
+                {
+                    ShoppingBasket.lShopItems[sCurrent] = ShoppingBasket.lShopItems[sCurrent] + 1;
+                }
+                
+                if(iSceneNumber == 3)
+                {
+                    SceneManager.LoadScene(3);
+                }
+                else
+                {
+                    SceneManager.LoadScene(5);
+                }
+
+            }
             else if (CompareTag("Menu_2"))
             {
                 clickObj = EventSystem.current.currentSelectedGameObject;
-
+                iSceneNumber = SceneManager.GetActiveScene().buildIndex;
 
                 string sCurrent = clickObj.GetComponentInChildren<TextMeshProUGUI>().text;
 
@@ -304,13 +316,21 @@ public class MobileTouch : MonoBehaviour
                 {
                     ShoppingBasket.lShopItems[sCurrent] = ShoppingBasket.lShopItems[sCurrent] + 1;
                 }
-                SceneManager.LoadScene(3);
+
+                if (iSceneNumber == 3)
+                {
+                    SceneManager.LoadScene(3);
+                }
+                else
+                {
+                    SceneManager.LoadScene(5);
+                }
 
             }
             else if (CompareTag("Menu_3"))
             {
                 clickObj = EventSystem.current.currentSelectedGameObject;
-
+                iSceneNumber = SceneManager.GetActiveScene().buildIndex;
 
                 string sCurrent = clickObj.GetComponentInChildren<TextMeshProUGUI>().text;
 
@@ -322,7 +342,15 @@ public class MobileTouch : MonoBehaviour
                 {
                     ShoppingBasket.lShopItems[sCurrent] = ShoppingBasket.lShopItems[sCurrent] + 1;
                 }
-                SceneManager.LoadScene(3);
+
+                if (iSceneNumber == 3)
+                {
+                    SceneManager.LoadScene(3);
+                }
+                else
+                {
+                    SceneManager.LoadScene(5);
+                }
 
             }
             else if (CompareTag("Menu_4") || CompareTag("Menu_5") || CompareTag("Menu_6") || CompareTag("Menu_7")
@@ -334,7 +362,7 @@ public class MobileTouch : MonoBehaviour
 
             {
                 clickObj = EventSystem.current.currentSelectedGameObject;
-                
+                iSceneNumber = SceneManager.GetActiveScene().buildIndex;
 
                 string sCurrent = clickObj.GetComponentInChildren<TextMeshProUGUI>().text;
 
@@ -346,7 +374,15 @@ public class MobileTouch : MonoBehaviour
                 {
                     ShoppingBasket.lShopItems[sCurrent] = ShoppingBasket.lShopItems[sCurrent] + 1;
                 }
-                SceneManager.LoadScene(3);
+
+                if (iSceneNumber == 3)
+                {
+                    SceneManager.LoadScene(3);
+                }
+                else
+                {
+                    SceneManager.LoadScene(5);
+                }
 
             }
 

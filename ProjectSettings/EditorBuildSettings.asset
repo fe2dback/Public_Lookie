@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ShooppingBasket.unity
     guid: c2907dbc332a1d643aab35c7fa2227e3
+  - enabled: 1
+    path: Assets/Scenes/Menu2Scene.unity
+    guid: 34d6d5813a66a564aa7e09e4ccd9045e
   m_configObjects: {}
