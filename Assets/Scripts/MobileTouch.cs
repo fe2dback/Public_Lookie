@@ -9,7 +9,7 @@ using UnityEngine.UI;
 public class MobileTouch : MonoBehaviour
 {
    
-    public bool Clicked;
+    public static bool Clicked;
     public bool DoubleClicked;
 
     public static string sCurrent;

@@ -41,6 +41,8 @@ public class SoundM : MonoBehaviour
     public AudioClip Menu_26;
     public AudioClip ShoppingBasket;
 
+  
+    
 
 
     public static SoundM instance;
@@ -52,7 +54,7 @@ public class SoundM : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+       
     }
 
     void Awake()
@@ -63,10 +65,14 @@ public class SoundM : MonoBehaviour
         }
     }
 
+
+
     public void menuselect()
     {
-        audioSource.PlayOneShot(MenuSelect);
        
+       audioSource.PlayOneShot(MenuSelect);
+        
+        
     }
 
     public void tutorial()
